@@ -1,0 +1,4 @@
+MaxLS-1, MaxLS-2, MaxLS-3, MaxLS-4, MaxSB, MaxUS-1, MaxUS-2, MaxCW, MinLS-1, MinLS-2, MinLS-3, MinLS-4, MinSB, MinUS-1, MinUS-2, MinCW
+22.09, 22.09, 22.04, 22.04, 58.43, 40.36, 40.36, 72.71, 21.85, 21.86, 21.78, 21.77, 58.03, 40.01, 40.00, 66.50
+SF-Plate-1, SF-Plate-2, SF-Plate-3, SF-Plate-4, SF-Plate-5, SF-Plate-6, SF-Plate-7, SF-Plate-8, SF-Plate-9, SF-Plate-10
+ 0.00,  0.00,  0.00,  0.00,  0.00,  0.00,  0.00,  0.00,  0.00,  0.00
